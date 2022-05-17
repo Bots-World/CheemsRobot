@@ -117,7 +117,7 @@ DEL_CMDS = KInit.DEL_CMDS
 ALLOW_EXCL = KInit.ALLOW_EXCL
 CUSTOM_CMD = KInit.CUSTOM_CMD
 BAN_STICKER = KInit.BAN_STICKER
-TOKEN = KInit.TOKEN
+TOKEN = "5247120991:AAE5-Tcb4mqAcVAdEsccc_C7T12K8sG06mw"
 DB_URI = KInit.DB_URI
 LOAD = KInit.LOAD
 MESSAGE_DUMP = KInit.MESSAGE_DUMP
@@ -140,7 +140,6 @@ BOT_API_FILE_URL = "https://api.telegram.org/file/bot"
 BOT_API_URL = "https://api.telegram.org/bot"
 API_ID = '12995565'
 API_HASH = 'f43e63c6eb71cd9ee988e3b13a509f1a'
-TOKEN = '5247120991:AAE5-Tcb4mqAcVAdEsccc_C7T12K8sG06mw'
 WORKERS = 32
 # SpamWatch
 sw = KInit.init_sw()
