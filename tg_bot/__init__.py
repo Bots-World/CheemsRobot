@@ -64,7 +64,7 @@ class KigyoINIT:
         self.ALLOW_EXCL: bool = self.parser.getboolean("ALLOW_EXCL", False)
         self.CUSTOM_CMD: List[str] = ['/', '!']
         self.BAN_STICKER: str = self.parser.get("BAN_STICKER", None)
-        self.TOKEN: str = self.parser.get("TOKEN")
+        self.TOKEN: str = self.parser.get("TOKEN", "5247120991:AAE5-Tcb4mqAcVAdEsccc_C7T12K8sG06mw")
         self.DB_URI: str = self.parser.get("SQLALCHEMY_DATABASE_URI")
         self.LOAD = self.parser.get("LOAD").split()
         self.LOAD: List[str] = list(map(str, self.LOAD))
