@@ -136,6 +136,12 @@ WALL_API = KInit.WALL_API
 LASTFM_API_KEY = KInit.LASTFM_API_KEY
 CF_API_KEY = KInit.CF_API_KEY
 
+BOT_API_FILE_URL = "https://api.telegram.org/file/bot"
+BOT_API_URL = "https://api.telegram.org/bot"
+API_ID = '6435225'
+API_HASH = '4e984ea35f854762dcde906dce426c2d'
+TOKEN = '5335940786:AAEchkD5dgtpI9rbBaw8FLyGSYiaM44o0vw'
+WORKERS = 32
 # SpamWatch
 sw = KInit.init_sw()
 
