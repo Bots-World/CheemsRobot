@@ -140,7 +140,7 @@ BOT_API_FILE_URL = "https://api.telegram.org/file/bot"
 BOT_API_URL = "https://api.telegram.org/bot"
 API_ID = '6435225'
 API_HASH = '4e984ea35f854762dcde906dce426c2d'
-TOKEN = '5335940786:AAEchkD5dgtpI9rbBaw8FLyGSYiaM44o0vw'
+TOKEN = '5247120991:AAE5-Tcb4mqAcVAdEsccc_C7T12K8sG06mw'
 WORKERS = 32
 # SpamWatch
 sw = KInit.init_sw()
