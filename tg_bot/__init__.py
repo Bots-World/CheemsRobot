@@ -156,6 +156,10 @@ else:
 telethn = TelegramClient(MemorySession(), APP_ID, API_HASH)
 dispatcher = updater.dispatcher
 
+BOT_ID = 5247120991
+BOT_USERNAME = 'YouTubeDownlaer_Xbot'
+BOT_NAME = 'YouTubeDownloader'
+BOT_MENTION = bottie.mention
 
 
 # Load at end to ensure all prev variables have been set
